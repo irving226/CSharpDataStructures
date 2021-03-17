@@ -1,0 +1,7 @@
+D:\Documents\source\ArrayofSunshine\obj\Debug\ArrayofSunshine.csprojAssemblyReference.cache
+D:\Documents\source\ArrayofSunshine\obj\Debug\ArrayofSunshine.csproj.CoreCompileInputs.cache
+D:\Documents\source\ArrayofSunshine\bin\Debug\ArrayofSunshine.exe.config
+D:\Documents\source\ArrayofSunshine\bin\Debug\ArrayofSunshine.exe
+D:\Documents\source\ArrayofSunshine\bin\Debug\ArrayofSunshine.pdb
+D:\Documents\source\ArrayofSunshine\obj\Debug\ArrayofSunshine.exe
+D:\Documents\source\ArrayofSunshine\obj\Debug\ArrayofSunshine.pdb

@@ -1,0 +1,16 @@
+D:\Documents\source\BinarySearchTrees\TreeHouse\obj\Debug\net5.0\TreeHouse.csprojAssemblyReference.cache
+D:\Documents\source\BinarySearchTrees\TreeHouse\obj\Debug\net5.0\TreeHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\source\BinarySearchTrees\TreeHouse\obj\Debug\net5.0\TreeHouse.AssemblyInfoInputs.cache
+D:\Documents\source\BinarySearchTrees\TreeHouse\obj\Debug\net5.0\TreeHouse.AssemblyInfo.cs
+D:\Documents\source\BinarySearchTrees\TreeHouse\obj\Debug\net5.0\TreeHouse.csproj.CoreCompileInputs.cache
+D:\Documents\source\BinarySearchTrees\TreeHouse\bin\Debug\net5.0\TreeHouse.exe
+D:\Documents\source\BinarySearchTrees\TreeHouse\bin\Debug\net5.0\TreeHouse.deps.json
+D:\Documents\source\BinarySearchTrees\TreeHouse\bin\Debug\net5.0\TreeHouse.runtimeconfig.json
+D:\Documents\source\BinarySearchTrees\TreeHouse\bin\Debug\net5.0\TreeHouse.runtimeconfig.dev.json
+D:\Documents\source\BinarySearchTrees\TreeHouse\bin\Debug\net5.0\TreeHouse.dll
+D:\Documents\source\BinarySearchTrees\TreeHouse\bin\Debug\net5.0\ref\TreeHouse.dll
+D:\Documents\source\BinarySearchTrees\TreeHouse\bin\Debug\net5.0\TreeHouse.pdb
+D:\Documents\source\BinarySearchTrees\TreeHouse\obj\Debug\net5.0\TreeHouse.dll
+D:\Documents\source\BinarySearchTrees\TreeHouse\obj\Debug\net5.0\ref\TreeHouse.dll
+D:\Documents\source\BinarySearchTrees\TreeHouse\obj\Debug\net5.0\TreeHouse.pdb
+D:\Documents\source\BinarySearchTrees\TreeHouse\obj\Debug\net5.0\TreeHouse.genruntimeconfig.cache
