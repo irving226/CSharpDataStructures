@@ -22,6 +22,7 @@ namespace ArrayofSunshine
             {
                 int min = matrix[row][0];
 
+
                 //if its the smallest in its column move to step 2
                 //if it is not, then move over to the next value in the row and repeat.
                 //if none in that row satisfy, +1 the row. repeat step 1. You don't need to compare to the previous row these will be bigger logically
@@ -80,7 +81,7 @@ namespace ArrayofSunshine
                 }
                 
                 //regardless if the row # equals the length of the matrix, we're at the last row and we need to break out of our while condition
-                if (row == matrix.Length)
+                if (row >= matrix.Length)
                 {
                     searching = false;
                     return test;
