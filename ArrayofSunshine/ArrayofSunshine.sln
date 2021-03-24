@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.31105.61
+VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysofSunshine", "ArraysofSunshine.csproj", "{0F04CD5B-2290-4ABA-A142-856D76C47186}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayofSunshine", "ArrayofSunshine.csproj", "{0F04CD5B-2290-4ABA-A142-856D76C47186}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3D899E46-A39E-4FB8-BE81-2FC2E79119BE}
+		SolutionGuid = {E5C7710B-633F-4AC2-81B1-7E245B2680C5}
 	EndGlobalSection
 EndGlobal
