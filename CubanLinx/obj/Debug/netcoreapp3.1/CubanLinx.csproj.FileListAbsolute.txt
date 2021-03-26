@@ -1,0 +1,13 @@
+D:\Documents\source\CubanLinx\bin\Debug\netcoreapp3.1\CubanLinx.exe
+D:\Documents\source\CubanLinx\bin\Debug\netcoreapp3.1\CubanLinx.deps.json
+D:\Documents\source\CubanLinx\bin\Debug\netcoreapp3.1\CubanLinx.runtimeconfig.json
+D:\Documents\source\CubanLinx\bin\Debug\netcoreapp3.1\CubanLinx.runtimeconfig.dev.json
+D:\Documents\source\CubanLinx\bin\Debug\netcoreapp3.1\CubanLinx.dll
+D:\Documents\source\CubanLinx\bin\Debug\netcoreapp3.1\CubanLinx.pdb
+D:\Documents\source\CubanLinx\obj\Debug\netcoreapp3.1\CubanLinx.csprojAssemblyReference.cache
+D:\Documents\source\CubanLinx\obj\Debug\netcoreapp3.1\CubanLinx.AssemblyInfoInputs.cache
+D:\Documents\source\CubanLinx\obj\Debug\netcoreapp3.1\CubanLinx.AssemblyInfo.cs
+D:\Documents\source\CubanLinx\obj\Debug\netcoreapp3.1\CubanLinx.csproj.CoreCompileInputs.cache
+D:\Documents\source\CubanLinx\obj\Debug\netcoreapp3.1\CubanLinx.dll
+D:\Documents\source\CubanLinx\obj\Debug\netcoreapp3.1\CubanLinx.pdb
+D:\Documents\source\CubanLinx\obj\Debug\netcoreapp3.1\CubanLinx.genruntimeconfig.cache

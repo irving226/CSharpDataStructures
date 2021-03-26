@@ -1,0 +1,13 @@
+D:\Documents\source\AversiontoRecursion\bin\Debug\netcoreapp3.1\AversiontoRecursion.exe
+D:\Documents\source\AversiontoRecursion\bin\Debug\netcoreapp3.1\AversiontoRecursion.deps.json
+D:\Documents\source\AversiontoRecursion\bin\Debug\netcoreapp3.1\AversiontoRecursion.runtimeconfig.json
+D:\Documents\source\AversiontoRecursion\bin\Debug\netcoreapp3.1\AversiontoRecursion.runtimeconfig.dev.json
+D:\Documents\source\AversiontoRecursion\bin\Debug\netcoreapp3.1\AversiontoRecursion.dll
+D:\Documents\source\AversiontoRecursion\bin\Debug\netcoreapp3.1\AversiontoRecursion.pdb
+D:\Documents\source\AversiontoRecursion\obj\Debug\netcoreapp3.1\AversiontoRecursion.csprojAssemblyReference.cache
+D:\Documents\source\AversiontoRecursion\obj\Debug\netcoreapp3.1\AversiontoRecursion.AssemblyInfoInputs.cache
+D:\Documents\source\AversiontoRecursion\obj\Debug\netcoreapp3.1\AversiontoRecursion.AssemblyInfo.cs
+D:\Documents\source\AversiontoRecursion\obj\Debug\netcoreapp3.1\AversiontoRecursion.csproj.CoreCompileInputs.cache
+D:\Documents\source\AversiontoRecursion\obj\Debug\netcoreapp3.1\AversiontoRecursion.dll
+D:\Documents\source\AversiontoRecursion\obj\Debug\netcoreapp3.1\AversiontoRecursion.pdb
+D:\Documents\source\AversiontoRecursion\obj\Debug\netcoreapp3.1\AversiontoRecursion.genruntimeconfig.cache
